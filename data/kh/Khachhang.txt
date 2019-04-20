@@ -1,0 +1,3 @@
+MS01	Nguyen Hoang Hiep	01632154750	Jusstah@yahoo.com.vn	Ha Noi	CT01
+MS02	A	0987326888	A@gmail.com	Ha Noi	CT02
+MS03	Nguyen Van B	0987321666	B@gmail.com	Ha Noi	CT01
